@@ -1,5 +1,456 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this first minute, Pao and I introduce ourselves and talk about the topic—gentrification in the Rio Grande Valley."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Conversational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Valley Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warm tone"
+        }
+      ],
+      "uuid": "3d8033ad-83f1-4165-832e-0ae167cb81f4"
+    },
+    {
+      "start_time": 60,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I bring up a paper I wrote about Community Land Trusts and start explaining how they work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "CLTs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Explanation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Confident tone"
+        }
+      ],
+      "uuid": "0a34e3d4-3cb9-4882-b160-bc7b2dc25b8a"
+    },
+    {
+      "start_time": 120,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pao shares a personal story about how her tía’s tiendita closed after rent went up because of SpaceX."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Narrative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community Members"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sincere tone"
+        }
+      ],
+      "uuid": "b5a75758-9483-4254-b40c-0a3f85cac262"
+    },
+    {
+      "start_time": 180,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We talk about how small businesses hold memories, create safe spaces, and are a big part of our cultural roots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latinx Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural Erasure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reflective tone"
+        }
+      ],
+      "uuid": "ff438077-1dfd-44c4-adc9-74d171cd1df7"
+    },
+    {
+      "start_time": 240,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pao calls out the rise of unaffordable shops and we both stress how important it is to protect what’s ours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Assertive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activists"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gentrification Resistance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Passionate tone"
+        }
+      ],
+      "uuid": "00f45719-f250-4c76-8b1a-e822d3d68e18"
+    },
+    {
+      "start_time": 300,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I suggest that UT students could start a CLT pilot project and get involved in real solutions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "UT Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action Plan"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Motivational tone"
+        }
+      ],
+      "uuid": "30bd7bce-164a-49ce-b7f2-5ed018aac098"
+    },
+    {
+      "start_time": 360,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We imagine a world where UT and local orgs team up to keep our small business strips alive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Visionary"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Partnership"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strategic"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hopeful tone"
+        }
+      ],
+      "uuid": "062c8cc3-2622-4743-9c21-ac68d30831c8"
+    },
+    {
+      "start_time": 420,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We talk about building a better future that reflects our culture and empowers our community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inspirational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Listeners"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Empowerment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hope"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Uplifting tone"
+        }
+      ],
+      "uuid": "ce248cb5-239d-4889-9f29-7061f21492e3"
+    },
+    {
+      "start_time": 480,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We encourage listeners to support local spots and keep our cultura alive in everyday life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reflective"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Public"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Preservation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Call to Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotive tone"
+        }
+      ],
+      "uuid": "4c256908-f4d7-4f18-8b1d-75dd9dd845da"
+    },
+    {
+      "start_time": 540,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We close out the podcast with thanks and a reminder to show up for our neighborhoods and our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Podcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Grateful"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "All Listeners"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Support Local"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warm outro"
+        }
+      ],
+      "uuid": "3ea53ee4-0de7-41d9-a815-87d4f07f11c4"
+    }
+  ],
   "set": "Default",
   "event_id": "714c785a-804c-4be0-a1ba-d55ff87f3ff2",
   "source_id": "3a5875b2-8937-4568-8889-e5d310279527"
