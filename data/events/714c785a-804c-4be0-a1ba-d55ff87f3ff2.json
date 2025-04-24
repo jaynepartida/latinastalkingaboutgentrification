@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "3a5875b2-8937-4568-8889-e5d310279527": {
+      "label": "video file",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Pretty and Smart: Gentrification in RGV",
+  "created_at": "2025-04-24T15:13:09.665Z",
+  "created_by": "jaynepartida",
+  "updated_at": "2025-04-24T15:13:09.665Z",
+  "updated_by": "jaynepartida"
+}
