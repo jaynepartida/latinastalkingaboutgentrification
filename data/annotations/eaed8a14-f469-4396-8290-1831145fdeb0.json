@@ -1,5 +1,320 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro to podcast and Intro to Pao"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Video"
+        }
+      ],
+      "uuid": "29becda8-0a0a-440c-9ae9-7c58d6b36d4b"
+    },
+    {
+      "start_time": 60,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explain gentrification to pao and asked her for any personal encounters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "64458412-b5d9-405c-962a-deddc465261c"
+    },
+    {
+      "start_time": 120,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pao talks about her families business that was affected by gentrification."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Famalities"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steakholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "48917b95-e51d-4133-bc9b-4fc07740fe65"
+    },
+    {
+      "start_time": 180,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explaining how that incident affected our community becasue of the lack of things to already do in the valley. Intro to solution and research to support."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communities"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "111e365e-ba8f-49e4-9309-ea29806efb1b"
+    },
+    {
+      "start_time": 240,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why CLT are important and beneficial to our community and how they can help more than just one persons business."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Research"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steakholders"
+        }
+      ],
+      "uuid": "34b02ff2-7d13-4708-b588-57cf4ebe0c01"
+    },
+    {
+      "start_time": 300,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How college students can benefit from CLT's and both students and community can come together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Structure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        }
+      ],
+      "uuid": "865b8a82-97fd-4184-b335-7a0e7e1b2d29"
+    },
+    {
+      "start_time": 360,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paos response to my solution and how students can get involved with their community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        }
+      ],
+      "uuid": "6d836370-1516-44cb-8362-490d358f70bd"
+    },
+    {
+      "start_time": 420,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still talking about the CLT's and benefits"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "f9a11161-2f0a-4a34-9f68-62ffcfbaea5c"
+    },
+    {
+      "start_time": 480,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall summary of the CLT's and benefits. Restating with more info "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Solution"
+        }
+      ],
+      "uuid": "1e67ca88-2d8f-4c6b-9a9e-520773c33bad"
+    },
+    {
+      "start_time": 540,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing words and Thank you to pao for joining and thank you to listeners."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        }
+      ],
+      "uuid": "c2cb5b5b-55b1-4d51-81af-d30e27470fee"
+    }
+  ],
   "set": "Default",
   "event_id": "ee5282c8-5f1d-491a-9d82-244b2f246885",
   "source_id": "c8c97f25-e112-4555-b952-8be68e37cfdf"
