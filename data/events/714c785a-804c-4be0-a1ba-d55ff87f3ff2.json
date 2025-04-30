@@ -5,7 +5,8 @@
       "is_offline": false,
       "file_url": "https://ia800209.us.archive.org/1/items/68624321-979-e-4-e-51-8-aee-8603-c-1-f-4-ad-1-d/68624321-979E-4E51-8AEE-8603C1F4AD1D.mp4",
       "duration": 62,
-      "caption_set": []
+      "caption_set": [],
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -24,6 +25,6 @@
   "label": "Pretty and Smart: Gentrification in RGV",
   "created_at": "2025-04-24T15:13:09.665Z",
   "created_by": "jaynepartida",
-  "updated_at": "2025-04-30T20:02:42.060Z",
+  "updated_at": "2025-04-30T20:03:06.950Z",
   "updated_by": "jaynepartida"
 }
